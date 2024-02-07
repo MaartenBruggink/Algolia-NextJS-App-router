@@ -1,0 +1,24 @@
+{
+  "name": "algolia-app-router-text",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "algoliasearch": "^4.22.1",
+    "next": "14.1.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-instantsearch": "^7.5.4",
+    "react-instantsearch-core": "^7.5.4",
+    "react-instantsearch-nextjs": "^0.1.11"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.1.0"
+  }
+}
